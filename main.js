@@ -9,4 +9,4 @@ function areaQuadrado(lado){
 let areaTrapezio=function(teste1,teste2,teste3) {
     return (teste1+teste2)*teste3/2 
 }
-console.log( )
+console.log(areaTrapezio(1,2,3));
