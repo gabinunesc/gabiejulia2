@@ -12,4 +12,3 @@ let areaTrapezio=function(teste1,teste2,teste3){
 }
 console.log(areaTrapezio(1,2,3));
 
-function valores 
