@@ -5,6 +5,7 @@ while(i<letaula1.length) {
     console.log(letaula1[i])
      i++;
 }
+
 for(let i=0;i<letaula1.length; i++) { 
     console.log(i);
     console.log(letaula1[i]);
