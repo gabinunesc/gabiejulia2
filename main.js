@@ -3,7 +3,7 @@ let i = 0;
 while(i<letaula1.length) { 
     console.log(i);
     console.log(letaula1[i])
-     i=i+1;
+     i++;
 }
 
 
