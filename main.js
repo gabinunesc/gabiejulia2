@@ -18,4 +18,9 @@ if( idade > 17){
 else{
     console.log('Ilegal dirigir');
 }
-
+let idade=parseInt(prompt (qual a idade?))
+if (idade >17) {
+    console.log('Pode dirigir');
+}
+else {console.log('Ilegal dirigir');
+}
