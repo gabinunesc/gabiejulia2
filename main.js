@@ -10,5 +10,12 @@ for(let i=0;i<letaula1.length; i++) {
     console.log(i);
     console.log(letaula1[i]);
 }
+let idade=16;
+if( idade > 17){
+    console.log('Pode dirigir');
 
+}
+else{
+    console.log('Ilegal dirigir');
+}
 
